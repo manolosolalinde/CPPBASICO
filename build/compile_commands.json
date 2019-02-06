@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/3E0CAB3B0CAAECD9/NMS/PROGRAMACION NMS/VIDEO STABILIZER/CPPBASICO/build",
+  "command": "/usr/bin/g++-7   -isystem /usr/local/include/opencv4   -Wall -Werror -g -O3 -DNDEBUG   -o CMakeFiles/DisplayImage.dir/src/DisplayImage.cpp.o -c \"/mnt/3E0CAB3B0CAAECD9/NMS/PROGRAMACION NMS/VIDEO STABILIZER/CPPBASICO/src/DisplayImage.cpp\"",
+  "file": "/mnt/3E0CAB3B0CAAECD9/NMS/PROGRAMACION NMS/VIDEO STABILIZER/CPPBASICO/src/DisplayImage.cpp"
+}
+]
